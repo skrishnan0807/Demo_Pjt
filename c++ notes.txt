@@ -1,0 +1,5 @@
+about ur self
+oops
+constructor
+pointers
+basic pointers
